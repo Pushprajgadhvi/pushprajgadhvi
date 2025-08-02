@@ -48,8 +48,12 @@
 ### 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/pushpraj-gadhvi-04693b286" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-    <img src="https://github.com/Pushprajgadhvi/" alt="GitHub">
+  </a>
+
+  <a href="https://github.com/Pushprajgadhvi/" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
