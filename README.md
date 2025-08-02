@@ -1,44 +1,47 @@
 <h1 align="center">Hey 👋, I'm Pushpraj</h1>
-<p align="center">🚀 Software Engineering Student | 💻 Android & Web Developer | 📊 Data Science & ML Enthusiast | 🤖 AI Tools Explorer</p>
+
+<p align="center">
+  🎓 Software Engineering Student &nbsp;|&nbsp; 📱 Android Developer &nbsp;|&nbsp; 🧠 ML & AI Enthusiast &nbsp;|&nbsp; 🌐 Web Explorer
+</p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- ✅ I’ve completed a **real-world Android app** (Java + XML + SAP Integration) during my internship at a company.
-- 🌱 Currently learning: **Machine Learning | Data Science | AI Tools | Python | Flutter**
-- 💬 Ask me about: **Java, Android Studio, Firebase, GitHub, NumPy, Pandas, ML basics**
+- 🔨 Built a real-time **Android app** using Java, XML, and SAP API during my internship.
+- 🎯 Focused on **Machine Learning**, **Data Science**, and **AI tools**.
+- 🌱 Currently exploring **Deep Learning**, **Model Deployment**, and **Flutter**.
+- 💬 I love discussing: `Java`, `Android Studio`, `Firebase`, `ML`, `Pandas`, `NumPy`, and `AI tools`.
 
 ---
 
-### 🚀 Tech Stack
+### 🧰 Tech Stack
 
-#### 🖥 Programming & Scripting
-<p>
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-</p>
+#### 👨‍💻 Programming & Scripting:
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### 📱 Mobile App Dev
-<p>
-  <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
-  <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
-</p>
+#### 📱 Mobile App Dev:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### 📊 Data Science & ML Tools
-<p>
-  <a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-  <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
-</p>
+#### 📊 Data Science / ML:
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-#### 🤖 AI Tools
-<p>
-  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
-  <a href="https://colab.research.google.com" target="_blank"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/></a>
-</p>
+---
+
+### 📂 My Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| 🎵 **Spotify Song Popularity & Clustering** | Python, ML | Unsupervised clustering + regression to predict song popularity. |
+| 🏠 **House Price Prediction** | Python, Regression | Uses data modeling to predict house prices based on features. |
+| 🎬 **Netflix Recommendation System** | Python, NLP | Recommends movies/shows using content-based filtering. |
+| 📰 **Fake News Detection** | Python, TF-IDF, ML | Detects fake/real news using NLP and classifiers (LogReg, RFC). |
+| 📦 **Kanchan Textile Android App** | Java, SAP API | Real-time barcode scanner, dispatch & order system using JSON + SAP APIs. |
 
 ---
 
@@ -47,5 +50,6 @@
 <p>
   <a href="https://linkedin.com/in/pushpraj-gadhvi-04693b286" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://github.com/Pushprajgadhvi/" alt="GitHub">
   </a>
 </p>
