@@ -45,6 +45,21 @@
 
 ---
 
+### 📈 GitHub Stats
+
+![Pushprajgadhvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pushprajgadhvi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushprajgadhvi&layout=compact&theme=radical)
+
+---
+
+### 📊 Contribution Graph
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pushprajgadhvi&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pushprajgadhvi&theme=react-dark&hide_border=true)
+
+---
+
+
 ### 📫 Connect With Me
 
 <p>
