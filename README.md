@@ -55,7 +55,6 @@
 ### 📊 Contribution Graph
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Pushprajgadhvi&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pushprajgadhvi&theme=react-dark&hide_border=true)
 
 ---
 
