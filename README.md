@@ -41,7 +41,7 @@
 | 🏠 **House Price Prediction** | Python, Regression | Uses data modeling to predict house prices based on features. |
 | 🎬 **Netflix Recommendation System** | Python, NLP | Recommends movies/shows using content-based filtering. |
 | 📰 **Fake News Detection** | Python, TF-IDF, ML | Detects fake/real news using NLP and classifiers (LogReg, RFC). |
-| 📦 **Kanchan Textile Android App** | Java, SAP API | Real-time barcode scanner, dispatch & order system using JSON + SAP APIs. |
+| 📦 **Textile Android App** | Java, SAP API | Real-time barcode scanner, dispatch & order system using JSON + SAP APIs. |
 
 ---
 
