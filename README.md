@@ -62,7 +62,7 @@
 ### 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+  <a href="https://www.linkedin.com/in/pushpraj-gadhvi-04693b286/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Pushprajgadhvi/" target="_blank">
