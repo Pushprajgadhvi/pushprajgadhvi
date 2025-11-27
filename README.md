@@ -12,9 +12,6 @@
   🎓 Software Engineering Student &nbsp;|&nbsp; 📱 Android Developer &nbsp;|&nbsp; 🧠 ML & AI Enthusiast &nbsp;|&nbsp; 🌐 Web Explorer
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pushprajgadhvi&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-</p>
 
 ---
 
