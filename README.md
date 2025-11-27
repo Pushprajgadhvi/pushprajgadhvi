@@ -20,14 +20,13 @@
 
 ## 🚀 About Me
 
-- 🔨 Built a real-time **Android app** using Java, XML, and SAP API during my internship.  
-- 🎯 Focused on **Machine Learning**, **Data Science**, and **AI tools**.  
-- 🌱 Currently exploring **Deep Learning**, **Model Deployment**, and **Flutter**.  
+- 🔨 Built a real-time **Android app** using Java, XML, and SAP API during my internship.
+- 🎯 Focused on **Machine Learning**, **Data Science**, and **AI tools**.
+- 🌱 Currently exploring **Deep Learning**, **Model Deployment**, and **Flutter**.
 - 💬 I love discussing: `Java`, `Android Studio`, `Firebase`, `ML`, `Pandas`, `NumPy`, and `AI tools`.
 
 ---
 
-<!-- SKILLS WITH ICON GRID -->
 ## 🧰 Tech Stack (Graphical)
 
 <p align="center">
@@ -36,40 +35,30 @@
 
 ---
 
-## 🧠 Deep Learning Projects (Stylish)
-
-<div align="center">
+## 🧠 Deep Learning Projects
 
 | Model | Description | Highlights |
 |------|-------------|------------|
-| 🧩 **ANN** | Basic Neural Network | Activation, Backprop, Optimizers |
-| 🖼️ **CNN** | Image Classification | Conv2D, MaxPool, Softmax |
+| 🧩 **ANN (Artificial Neural Network)** | Basic Neural Network | Activation, Backprop, Optimizers |
+| 🖼️ **CNN (Convolutional Neural Network)** | Image Classification | Conv2D, Pooling, Softmax |
 | ⚡ **Transfer Learning** | VGG16, ResNet, MobileNet | Fine-tuning, Feature Extraction |
-| 🧪 **Augmentation** | Data Pipeline | Rotation, Zoom, Brightness |
-
-</div>
+| 🧪 **Data Augmentation** | Custom pipelines | Rotation, Zoom, Brightness |
 
 ---
 
-<!-- ANIMATED PROJECT GALLERY -->
-## 📂 Featured ML Projects — *Graph Style*
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-### My Projects
+## 📂 My Projects
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| 🎵 Spotify Song Popularity | Python, ML | Clustering + regression |
-| 🏠 House Price Prediction | Python | Predicts house prices |
-| 🎬 Netflix Recommendation | NLP | Content-based recommender |
-| 📰 Fake News Detection | ML, TF-IDF | Logistic + RandomForest |
-| 📦 Textile Android App | Java, SAP | Barcode scanner + SAP API |
+| 🎵 **Spotify Song Popularity & Clustering** | Python, ML | Unsupervised clustering + regression to predict popularity. |
+| 🏠 **House Price Prediction** | Python, Regression | Predicts house prices based on features. |
+| 🎬 **Netflix Recommendation System** | Python, NLP | Content-based recommender system. |
+| 📰 **Fake News Detection** | Python, TF-IDF, ML | LogReg + RandomForest classifiers. |
+| 📦 **Textile Android App** | Java, SAP API | Barcode scanning + order management. |
 
 ---
 
-## 📊 GitHub Analytics (Graphical + Animated)
+# 📊 GitHub Analytics (Graphical)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pushprajgadhvi&show_icons=true&theme=tokyonight&hide_border=true" height="170">
@@ -82,40 +71,55 @@
 
 ---
 
-<!-- RADIAL ACTIVITY GRAPH -->
-## 🌀 Activity Graph (Circular Style)
+# 🌀 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushprajgadhvi&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-<!-- ANIMATED WORKFLOW -->
-## ⚙️ My Workflow & Tools
+# 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
-## 🏆 Achievements
-- ⭐ Built industry-level Android app  
-- 📊 Built ML models with **90%+ accuracy**  
-- 🧠 Strong foundation in DS + AI tools  
-- 📱 Firebase + SAP API Integrations  
+# 🔍 Data Science Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,github,vscode,anaconda" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+# 🧬 Machine Learning Workflow (Animated)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pushpraj-gadhvi-04693b286/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pushprajgadhvi/" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github.com/Akshay090/svg-icons/blob/main/ml-workflow.svg" width="750">
 </p>
 
-<!-- BOTTOM WAVE -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+---
+
+# 📊 Data Science Pipeline (GIF)
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Data_analysis.gif?raw=true" width="600">
+</p>
+
+---
+
+# 🤖 Deep Learning Architecture (Mermaid)
+
+### 🔹 ANN  
+```mermaid
+graph TD;
+    A[Input Layer] --> B[Hidden Layer 1];
+    B --> C[Hidden Layer 2];
+    C --> D[Output Layer];
+
+# 📈 GitHub Summary Cards
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushprajgadhvi&theme=tokyonight" width="850"> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushprajgadhvi&theme=tokyonight&utcOffset=5" width="400"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pushprajgadhvi&theme=tokyonight" width="400"> </p>
+
