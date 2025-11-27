@@ -77,64 +77,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-# 🔍 Data Science Toolkit
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,github,vscode,anaconda" />
-</p>
-
----
-
-# 🧬 Machine Learning Workflow (Animated)
-<p align="center">
-  <img src="https://github.com/Akshay090/svg-icons/blob/main/ml-workflow.svg" width="750">
-</p>
-
----
-
-# 📊 Data Science Pipeline (GIF)
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Data_analysis.gif?raw=true" width="600">
-</p>
-
----
-
-# 🤖 Deep Learning Architecture (Mermaid)
-
-### 🔹 ANN  
-```mermaid
-graph TD;
-    A[Input Layer] --> B[Hidden Layer 1];
-    B --> C[Hidden Layer 2];
-    C --> D[Output Layer];
-```
-
-### 🔹 CNN
-```mermaid
-graph TD;
-    A[Input Image] --> B[Conv Layer];
-    B --> C[ReLU];
-    C --> D[MaxPooling];
-    D --> E[Flatten];
-    E --> F[Dense Layer];
-    F --> G[Softmax Output];
-```
-
-### 🔹 Transfer Learning  
-```mermaid
-graph TD;
-    A[Pretrained Model: VGG16/ResNet/MobileNet] --> B[Freeze Base Layers];
-    B --> C[Add Custom Layers];
-    C --> D[Train on New Dataset];
-```
-
----
 
 # 📈 GitHub Summary Cards
 
@@ -158,19 +100,6 @@ graph TD;
   <img src="https://img.shields.io/badge/-NLP-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/-Clustering-pink?style=for-the-badge">
 </p>
-
----
-
-# 📡 Real-Time ML System Diagram
-
-```mermaid
-flowchart LR
-    A[User Input] --> B[Preprocessing]
-    B --> C[ML Model]
-    C --> D[Prediction]
-    D --> E[Deployment API]
-    E --> F[Mobile / Web App]
-```
 
 ---
 
