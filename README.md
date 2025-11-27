@@ -27,12 +27,6 @@
 
 ---
 
-## 🧰 Tech Stack (Graphical)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,androidstudio,firebase,github,git,vscode,figma,html,css,js" />
-</p>
-
----
 
 ## 🧠 Deep Learning Projects
 
