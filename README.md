@@ -77,26 +77,16 @@ Focused on:
 
 ---
 
-# 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushprajgadhvi&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushprajgadhvi&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://streak-stats.demolab.com?user=Pushprajgadhvi&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pushprajgadhvi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushprajgadhvi&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-# 🌀 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushprajgadhvi&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
 
 # 📈 GitHub Summary Cards
 
